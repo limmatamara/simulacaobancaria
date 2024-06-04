@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Projetos\Bootcamp Santander\Simulação Bancária\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4123552910.index
+1327741080.index
